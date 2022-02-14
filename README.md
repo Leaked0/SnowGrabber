@@ -6,5 +6,5 @@ Basically the owner of BlitzedGrabber think remake a new GUI and put new name an
 (Only easy to fix issues)
 
 ## Stars
-- 5 => Release GUI src
-- 10 => Release Origianl Stub rar password 
+- [x] 5 => Release GUI src
+- [ ] 10 => Release Origianl Stub rar password 
